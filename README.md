@@ -1,5 +1,7 @@
 # Encoder
 
+**Source last updated:** 2020-11-13
+
 Counts quadrature pulses from rotary & linear position encoders. Encoder counts pulses from quadrature encoded signals, which are commonly available from rotary knobs, motor or shaft sensors and other position sensors. Original author: Paul Stoffregen. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.4.2. Upstream: <http://www.pjrc.com/teensy/td_libs_Encoder.html>.
 
 **Language:** C++ / Arduino  
