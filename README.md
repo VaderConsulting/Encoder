@@ -18,6 +18,10 @@ Counts quadrature pulses from rotary & linear position encoders. Encoder counts 
 
 Copy this folder into the Arduino `libraries` directory as `Encoder` and include the library headers from a sketch.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Paul Stoffregen
